@@ -1,0 +1,55 @@
+.confirmLabel {
+  color: black;
+}
+
+.figureTable {
+  margin-left: 100px;
+  margin-top: 50px;
+  width: 1200px;
+}
+
+.selInput {
+  width: 300px;
+}
+
+.hide {
+  display: none;
+}
+
+.hide.show {
+  display: block;
+}
+
+.inputXY {
+  margin-top: 10px;
+}
+
+.mainAddBlock {
+  margin-top: 50px;
+  width: 1200px;
+  margin-left: 100px;
+}
+
+.prodArea {
+  margin-top: 20px;
+}
+
+.firstInputRect {
+  margin-top: 10px;
+}
+
+.secondInputRect {
+  margin-top: 20px;
+}
+
+.thirdInputRect {
+  margin-top: 20px;
+}
+
+#myChart {
+  max-width: 750px;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
